@@ -36,6 +36,8 @@
 	padding-left: 10%;
 	padding-right: 5%;
 	padding-top: 5%;
+
+	text-decoration: none; 
 }
 
 
@@ -46,6 +48,8 @@
 #nav_bar_item:hover{
 	background-color: rgb(89, 104, 3);
 	color: white;
+
+	text-decoration: none; 
 }
 
 li.item {
